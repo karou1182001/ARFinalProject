@@ -35,7 +35,7 @@ The app will recreate a small museum featuring a mix of paintings and 3D objects
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/augmented-reality-museum-app.git
+    git clone https://github.com/karou1182001/ARFinalProject.git
     ```
 2. Open the project in Unity.
 3. Ensure you have **Vuforia** in Unity.
