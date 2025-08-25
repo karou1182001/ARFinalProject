@@ -1,4 +1,5 @@
 # Augmented Reality Museum App
+- 🎥 [Demo on Youtube](https://youtu.be/hCuxN-WTXbs?si=ihDmxhcP4N2zKgA1)
 
 ## Introduction
 We propose to create an augmented reality (AR) app that simulates a small USF museum experience. This app will enhance visitor engagement with interactive features like QR code scanning, audio integration, and 3D models. Our goal is to combine technology and art to make cultural experiences more accessible and enjoyable at USF.
@@ -31,8 +32,6 @@ The app will recreate a small museum featuring a mix of paintings and 3D objects
 - **Vuforia**: For augmented reality features, including image and object tracking.
 - **QR Code Scanning**: To trigger interactive experiences for each artwork.
 - **Audio Integration**: For immersive soundscapes related to the exhibits.
-
-- 🎥 [Demo on Youtube](https://youtu.be/hCuxN-WTXbs?si=ihDmxhcP4N2zKgA1)
 
 
 ## Installation
