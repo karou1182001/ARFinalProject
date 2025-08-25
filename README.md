@@ -32,6 +32,9 @@ The app will recreate a small museum featuring a mix of paintings and 3D objects
 - **QR Code Scanning**: To trigger interactive experiences for each artwork.
 - **Audio Integration**: For immersive soundscapes related to the exhibits.
 
+- 🎥 [Demo on Youtube](https://youtu.be/hCuxN-WTXbs?si=ihDmxhcP4N2zKgA1)
+
+
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
